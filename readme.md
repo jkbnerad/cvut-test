@@ -1,1 +1,3 @@
 # init
+
+Inicializace repozitare
